@@ -27,7 +27,7 @@
     "url": "https://github.com/sintaxi/harp.git"
   },
   "dependencies": {
-    "terraform": "git://github.com/david-martin/terraform.git#fh-master",
+    "terraform": "git://github.com/fheng/terraform.git#fh-master",
     "commander": "2.0.0",
     "connect": "2.9.0",
     "fs-extra": "0.6.4",
